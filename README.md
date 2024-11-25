@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Khatri</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h3 align="center">A Passionate Indian Software Developer</h3>
 <img align="right" alt="Coding" height=300 src="https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
 
 - 💬 Ask me about **Python, Java, FLutter**
